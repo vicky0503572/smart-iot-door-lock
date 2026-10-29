@@ -107,7 +107,7 @@ Don’t commit certs/keys; send them out-of-band if needed.
 
 
 
-# ======== PART 2 (Facial Recognition) ========
+# PART 2 (Facial Recognition) 
 This phase extends the previous IoT door and motion system by integrating real-time face recognition using Raspberry Pi 5, Pi Camera Module 2, and OpenCV DNN models. The goal is to verify authorized users locally and publish recognition events to the same MQTT topic (local or AWS IoT Core).
 
 **Hardware**  
